@@ -1,3 +1,3 @@
 # bot-shop
 
-Bot-shop telegramm
+Bot-shop telegram
